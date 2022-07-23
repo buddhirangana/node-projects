@@ -12,7 +12,6 @@ node -v
 # Check the npm version
 npm -v
 ```
-> **Important**: This project requires a Node.js version of 14 or higher.
 
 If the above is not installed, download suitable `Node.js` package for your OS using the following [link](https://nodejs.org/en/download/) and install it.
 
